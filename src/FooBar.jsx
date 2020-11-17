@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Foobar() {
+export default function FooBar() {
   return (
     <div />
   );
